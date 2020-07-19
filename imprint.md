@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Impressum
-permalink: /imprint/
+background: grey
 ---
-
 ## Angaben gemäß § 5 TMG
 
 Fari Software GmbH  

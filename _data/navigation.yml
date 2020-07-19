@@ -1,0 +1,19 @@
+nav:
+  - title: "Services"
+    section: services
+
+  - title: "Portfolio"
+    section: portfolio
+    
+  - title: "About"
+    section: timeline
+
+  - title: "Team"
+    section: team
+
+  - title: "Kontakt"
+    section: contact
+
+  - title: "Impressum"
+    url: "imprint"
+
