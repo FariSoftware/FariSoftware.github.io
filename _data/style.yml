@@ -1,10 +1,10 @@
 #Color Customization
-highlight: "#162d50"
-white: "#465e82"
-black: "#00FF00"
+highlight: "#465e82"
+#white: "#FF0000"
+#black: "#000"
 
 #Image Customization
-header-image: "../img/header.png"
+header-image: "../img/header.jpg"
 contact-image: "../img/contact.png"
 
 #Font Awesome icon for portfolio grid when an item is hovered over
