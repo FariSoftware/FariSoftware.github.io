@@ -1,23 +1,25 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    # title: Software Entwicklung
+    text: Software Entwicklung
+    button: Mehr erfahren
     buttonlink: "#services"
 
 services:
     title: "Services"
-    text: "Lorem ipsum"
+    # text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "INDIVIDUELLE ENTWICKLUNG"
+        desc: "Wir entwickeln Software nach Ihren Vorgaben. Sowohl bei Ihnen vor Ort zusammen mit Ihrem Team, also auch in unseren eigenen Räumlichkeiten.
+Egal ob kleines Scriptlein oder großer Applicationserver.
+Egal ob embedded oder cloud.
+Wir unterstützen Sie beim kompletten Zyklus der Softwareentwicklung; von der Spezifikation über die Entwicklung bis hin zu Tests und Dokumentation."
+        icon: fas fa-user-friends #find more at https://fontawesome.com/icons
+      - title: "INFRASTRUKTUR"
+        desc: "Die Entwicklung von guter Software braucht auch eine gute Umgebung und Werkzeuge.
+Wir helfen Ihnen dabei die Zusammenarbeit Ihrer existierenden Systeme zu verbessern.
+Wir erstellen Ihnen Helfer, mit denen Sie Ihrer Aufgaben schneller und fehlerfrei durchführen können."
+        icon: fas fa-road 
 
 portfolio:
     title: "Portfolio"
