@@ -35,7 +35,7 @@ collections:
 markdown: kramdown
 
 # Build settings
-theme: jekyll-agency
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
