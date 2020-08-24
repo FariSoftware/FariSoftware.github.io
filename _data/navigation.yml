@@ -11,9 +11,6 @@ nav:
   - title: "Team"
     section: team
 
-  - title: "Kontakt"
-    section: contact
-
   - title: "Impressum"
     url: "imprint"
 
