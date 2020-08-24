@@ -3,3 +3,11 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+*.gem
+.bundle
+.sass-cache
+.jekyll-cache
+_site
+Gemfile.lock
+unused
+bootstrap-reference.html
