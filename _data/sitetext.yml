@@ -9,17 +9,24 @@ services:
     # text: "Lorem ipsum"
     section: services
     list:
-      - title: "INDIVIDUELLE ENTWICKLUNG"
+      - title: "ENTWICKLUNG"
         desc: "Wir entwickeln Software nach Ihren Vorgaben. Sowohl bei Ihnen vor Ort zusammen mit Ihrem Team, also auch in unseren eigenen Räumlichkeiten.
 Egal ob kleines Scriptlein oder großer Applicationserver.
 Egal ob embedded oder cloud.
 Wir unterstützen Sie beim kompletten Zyklus der Softwareentwicklung; von der Spezifikation über die Entwicklung bis hin zu Tests und Dokumentation."
         icon: fas fa-user-friends #find more at https://fontawesome.com/icons
+      - title: "BERATUNG"
+        icon: fas fa-tools
+        desc: "Sie haben eine Idee und wissen nicht, wie sie realisierbar ist?
+        
+        Wir beraten und helfen. Sowohl im Software- als auch im Hardware-Bereich."        
       - title: "INFRASTRUKTUR"
         desc: "Die Entwicklung von guter Software braucht auch eine gute Umgebung und Werkzeuge.
 Wir helfen Ihnen dabei die Zusammenarbeit Ihrer existierenden Systeme zu verbessern.
 Wir erstellen Ihnen Helfer, mit denen Sie Ihrer Aufgaben schneller und fehlerfrei durchführen können."
         icon: fas fa-road 
+
+
 
 portfolio:
     title: "Portfolio"

@@ -1,0 +1,14 @@
+ClearQuest
+Gitlab
+Confluence
+Kubernetes
+Bitbucket
+ClearCase
+NuGet
+Git
+Ivy
+Jira
+vcpkg
+Artifactory
+Nexus
+Openshift
