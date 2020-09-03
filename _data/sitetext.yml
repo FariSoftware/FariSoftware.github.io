@@ -23,11 +23,8 @@ Wir erstellen Ihnen Helfer, mit denen Sie Ihrer Aufgaben schneller und fehlerfre
 
 portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    #text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
-    list:
-     - title: "Automotive"
-       desc: "aaa"
     
 
 timeline:
