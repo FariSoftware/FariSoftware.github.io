@@ -1,0 +1,11 @@
+https://www.wordclouds.com
+
+File: "Ignore Stop Words" ausschalten
+File: Upload TXT
+
+Size: 1024x1024
+Gap size: 2
+Shape: Quadrat
+Theme: 6. von unten
+Font: Montserrat 400
+Slider: -25
