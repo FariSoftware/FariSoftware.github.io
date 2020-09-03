@@ -124,6 +124,16 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
+
+contact:
+    title: "Kontakt"
+    text: >
+      Fari Software GmbH<br>
+      Otto-Lilienthal-Str. 36<br>
+      71034 Böblingen<br>
+      <br>
+      info@fari-software.de
+    section: contact            
     
 footer:
     legal: "Datenschutzerklärung"

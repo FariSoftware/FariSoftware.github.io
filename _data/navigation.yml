@@ -5,6 +5,9 @@ nav:
   - title: "Portfolio"
     section: portfolio
 
+  - title: "Kontakt"
+    section: contact
+
   - title: "Impressum"
     url: "imprint"
 
