@@ -11,3 +11,5 @@ nav:
   - title: "Impressum"
     url: "imprint"
 
+  - title: "AGB"
+    url: "assets/AGB.pdf"
