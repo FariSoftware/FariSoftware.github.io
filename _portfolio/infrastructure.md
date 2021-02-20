@@ -5,7 +5,7 @@ caption: #what displays in the portfolio grid:
   thumbnail: assets/img/portfolio/wordcloud-infrastructure.png
   
 #what displays when the item is clicked:
-title: Automotive
+title: Infrastruktur
 subtitle: 
 image: assets/img/portfolio/wordcloud-infrastructure.png
 alt: ClearQuest Gitlab Confluence Kubernetes Bitbucket ClearCase NuGet Git Ivy Jira vcpkg Artifactory Nexus Openshift

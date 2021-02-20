@@ -5,7 +5,7 @@ caption: #what displays in the portfolio grid:
   thumbnail: assets/img/portfolio/wordcloud-programming.png
   
 #what displays when the item is clicked:
-title: Automotive
+title: Entwicklung
 subtitle: 
 image: assets/img/portfolio/wordcloud-programming.png
 alt: C++ C# C Java XTend Xtext .Net VB.Net Python NUnit xUnit Pandas
