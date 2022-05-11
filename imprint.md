@@ -13,7 +13,6 @@ Handelsregister: HRB 762500
 Registergericht: Stuttgart
 
 **Vertreten durch:**  
-Christof Eichner  
 Matthias Spiller
 
 ## Kontakt
