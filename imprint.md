@@ -11,6 +11,7 @@ Otto-Lilienthal-Str. 36
 
 Handelsregister: HRB 762500  
 Registergericht: Stuttgart
+Sitz: Altdorf
 
 **Vertreten durch:**  
 Matthias Spiller
