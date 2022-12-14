@@ -10,7 +10,7 @@ Otto-Lilienthal-Str. 36
 71034 Böblingen
 
 Handelsregister: HRB 762500  
-Registergericht: Stuttgart
+Registergericht: Stuttgart  
 Sitz: Altdorf
 
 **Vertreten durch:**  
